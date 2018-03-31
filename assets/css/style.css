@@ -1,0 +1,32 @@
+
+.container{
+    padding: 250px;
+    background: black;
+
+}
+
+.countries{
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left:10px;
+    height: 500px;
+    width: 100%;
+}
+
+body{
+    background: black;
+    
+}
+
+.jumbotron{
+    color: red;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;   
+    background-color:white;   
+}
+
+.panel-body{
+    color:red;
+    background-color: black;
+}
